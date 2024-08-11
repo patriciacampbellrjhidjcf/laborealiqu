@@ -1,0 +1,3 @@
+/**
+ * @param {number} initialVelocity - The initial velocity of the spring, as ...
+ */
